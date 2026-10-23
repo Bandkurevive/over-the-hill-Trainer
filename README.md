@@ -105,4 +105,3 @@ See the LICENSE file for more information.
 </details>
 
 <p align="center"><a href="https://RadianMouseMind.github.io/"><img src="Assets/download-banner.svg" width="100%" alt="Download over the hill"></a></p>
-                                                                                                    
